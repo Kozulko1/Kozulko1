@@ -2,7 +2,7 @@
 
 - I live in Croatia❤️
 - I have a master's degree in computer science💻
-- I am currently working as a Devops engineer in an automotive company♾
+- I am currently working as a DevOps engineer in an automotive company♾
 - Fun fact about me: I love playing videogames⚔️
 
 ### Feel free to contact me:
