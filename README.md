@@ -1,8 +1,5 @@
 ## Greetings, my name is Ivan🤟
 
-- I live in Croatia❤️
-- I have a master's degree in computer science💻
-- I am currently working as a DevOps engineer in an automotive company♾
 
 ### Feel free to contact me:
 
